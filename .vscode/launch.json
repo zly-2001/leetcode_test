@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "two_num_sum",
+            "request": "launch",
+            "mainClass": "hash.two_num_sum",
+            "projectName": "cursor_project_94ec8db2"
+        },
+        {
+            "type": "java",
             "name": "dfs_tree",
             "request": "launch",
             "mainClass": "tree.dfs_tree",
